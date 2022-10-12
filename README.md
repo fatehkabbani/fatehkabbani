@@ -1,5 +1,4 @@
-  <h1>JavaScript Fundamentals – Part 1</h1>
-  <script src="script.js"></script>
+
   <h1 align="center">Hi 👋, I'm zombie</h1>
   <h3 align="center">i'm a web deveolper</h3>
 
