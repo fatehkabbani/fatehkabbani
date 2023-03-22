@@ -82,13 +82,5 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=zombie223&&style=flat-square)  
+<div align="center"> ![Profile views counter](https://komarev.com/ghpvc/?username=zombie223&&style=flat-square)  </div>
   
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
