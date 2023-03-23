@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=FFFFFF&width=435&lines=Welcome+i'm+fateh+web+developer;and+designer" alt="Typing SVG">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=zombie223&theme=neon-dark&hide_border=true" alt="GitHub Streak">
 </div>
 
