@@ -1,4 +1,5 @@
- 
+<div style="text-align:center"></div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=FFFFFF&width=435&lines=Welcome+i'm+fateh+web+developer;and+designer)](https://git.io/typing-svg)
 
  
