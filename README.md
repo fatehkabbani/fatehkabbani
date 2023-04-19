@@ -87,4 +87,23 @@
  
 <a href="https://wakatime.com/badge/user/644fa73a-4d26-40ca-8922-1abe798a9bb2/project/60607233-b10d-49a1-9cf8-dc470c4b027b"><img src="https://wakatime.com/badge/user/644fa73a-4d26-40ca-8922-1abe798a9bb2/project/60607233-b10d-49a1-9cf8-dc470c4b027b.svg" alt="wakatime"></a>
 <!--START_SECTION:waka-->
+
+```text
+From: 25 February 2023 - To: 18 April 2023
+
+Total Time: 94 hrs 27 mins
+
+JavaScript   49 hrs 49 mins  >>>>>>>>>>>>>------------   52.76 %
+PHP          20 hrs 14 mins  >>>>>--------------------   21.42 %
+HTML         10 hrs 27 mins  >>>----------------------   11.08 %
+CSS          7 hrs 30 mins   >>-----------------------   07.96 %
+JSON         1 hr 45 mins    -------------------------   01.86 %
+Markdown     1 hr 37 mins    -------------------------   01.72 %
+Python       1 hr 17 mins    -------------------------   01.36 %
+Assembly     34 mins         -------------------------   00.62 %
+C++          26 mins         -------------------------   00.47 %
+Text         24 mins         -------------------------   00.43 %
+SQL          7 mins          -------------------------   00.13 %
+```
+
 <!--END_SECTION:waka-->
