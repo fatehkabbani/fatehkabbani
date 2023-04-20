@@ -91,9 +91,9 @@
 ```text
 From: 25 February 2023 - To: 18 April 2023
 
-Total Time: 94 hrs 27 mins
+Total Time: 104 hrs 27 mins
 
-JavaScript   49 hrs 49 mins  >>>>>>>>>>>>>------------   52.76 %
+JavaScript   59 hrs 49 mins  >>>>>>>>>>>>>------------   52.76 %
 PHP          20 hrs 14 mins  >>>>>--------------------   21.42 %
 HTML         10 hrs 27 mins  >>>----------------------   11.08 %
 CSS          7 hrs 30 mins   >>-----------------------   07.96 %
