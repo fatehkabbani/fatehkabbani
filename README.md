@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zombie223&theme=neon-dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=fatehkabbani&theme=neon-dark&hide_border=true" alt="GitHub Streak">
 </div>
 
 
