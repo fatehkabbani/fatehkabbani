@@ -87,16 +87,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2023 - To: 30 October 2023
+From: 25 February 2023 - To: 31 October 2023
 
-Total Time: 234 hrs 10 mins
+Total Time: 235 hrs 5 mins
 
-JavaScript       87 hrs 23 mins  >>>>>>>>>----------------   37.32 %
-PHP              84 hrs 9 mins   >>>>>>>>>----------------   35.94 %
-CSS              24 hrs 27 mins  >>>----------------------   10.44 %
-HTML             15 hrs 3 mins   >>-----------------------   06.43 %
-JSON             7 hrs 9 mins    >------------------------   03.05 %
-Markdown         5 hrs 14 mins   >------------------------   02.24 %
+JavaScript       87 hrs 32 mins  >>>>>>>>>----------------   37.24 %
+PHP              84 hrs 52 mins  >>>>>>>>>----------------   36.10 %
+CSS              24 hrs 27 mins  >>>----------------------   10.40 %
+HTML             15 hrs 3 mins   >>-----------------------   06.41 %
+JSON             7 hrs 10 mins   >------------------------   03.05 %
+Markdown         5 hrs 14 mins   >------------------------   02.23 %
 SQL              2 hrs 46 mins   -------------------------   01.18 %
 Python           1 hr 23 mins    -------------------------   00.60 %
 Kotlin           1 hr 10 mins    -------------------------   00.50 %
