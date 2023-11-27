@@ -82,7 +82,7 @@
 
 <br/>  
 
- ![Profile views counter](https://komarev.com/ghpvc/?username=zombie223&&style=flat-square)
+ ![Profile views counter](https://komarev.com/ghpvc/?username=fatehkabbani&&style=flat-square)
  
 <!--START_SECTION:waka-->
 
