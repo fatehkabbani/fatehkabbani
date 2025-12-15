@@ -86,15 +86,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2023 - To: 12 December 2025
+From: 25 February 2023 - To: 13 December 2025
 
-Total Time: 1,090 hrs 13 mins
+Total Time: 1,091 hrs 38 mins
 
-PHP                        404 hrs 6 mins  >>>>>>>>>----------------   37.07 %
-JavaScript                 342 hrs 51 mins >>>>>>>>-----------------   31.45 %
-CSS                        97 hrs 56 mins  >>-----------------------   08.98 %
-HTML                       72 hrs 11 mins  >>-----------------------   06.62 %
-C                          69 hrs 8 mins   >>-----------------------   06.34 %
+PHP                        404 hrs 42 mins >>>>>>>>>----------------   37.07 %
+JavaScript                 342 hrs 51 mins >>>>>>>>-----------------   31.41 %
+CSS                        97 hrs 56 mins  >>-----------------------   08.97 %
+HTML                       72 hrs 11 mins  >>-----------------------   06.61 %
+C                          69 hrs 8 mins   >>-----------------------   06.33 %
 JSON                       17 hrs 41 mins  -------------------------   01.62 %
 Markdown                   13 hrs 56 mins  -------------------------   01.28 %
 SQL                        12 hrs 22 mins  -------------------------   01.13 %
