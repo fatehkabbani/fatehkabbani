@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=FFFFFF&width=435&lines=Welcome+i'm+fateh+web+developer;and+designer" alt="Typing SVG">
 </div>
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fatehkabbani&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=fatehkabbani" alt="GitHub Streak" /></a>
 </div>
 
 
