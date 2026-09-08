@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2023 - To: 05 September 2026
+From: 25 February 2023 - To: 06 September 2026
 
 Total Time: 663 hrs 11 mins
 
 PHP                        227 hrs 8 mins        >>>>>>>>>----------------   34.25 %
-JavaScript                 203 hrs 46 mins       >>>>>>>>-----------------   30.73 %
+JavaScript                 203 hrs 47 mins       >>>>>>>>-----------------   30.73 %
 CSS                        64 hrs 15 mins        >>-----------------------   09.69 %
 C                          55 hrs 39 mins        >>-----------------------   08.39 %
 HTML                       43 hrs 38 mins        >>-----------------------   06.58 %
